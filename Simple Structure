@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Yingru's Website Structure</h1>
+<img src="pic_trulli.jpg" alt="Trulli" width="300" height="150" align="left">
+<img src="pic_trulli.jpg" alt="Trulli" width="300" height="150" align="right">
+
+<div>
+    <p>"Random Text"
+    <br>"Random Text"
+    <br>"Random Text"
+    </p>
+</div>       
+
+</body>
+</html>
