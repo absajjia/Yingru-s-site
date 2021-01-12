@@ -2,9 +2,10 @@
 <html>
 <body>
 
-<h1>Yingru's Website Structure</h1>
-<img src="pic_trulli.jpg" alt="Trulli" width="300" height="150" align="left">
-<img src="pic_trulli.jpg" alt="Trulli" width="300" height="150" align="right">
+<h1>Yingru's Website Structure (individuals)</h1>
+<img src="pic_trulli.jpg" alt="Trulli" width="320" height="150" align="left">
+<iframe width="320" height="150" src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1" align="right">
+</iframe>
 
 <div>
     <p>"Random Text"
